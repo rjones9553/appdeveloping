@@ -1,0 +1,52 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width">
+  <title>Landing Page</title>
+  <link rel="icon" href="https://www.iconfinder.com/icons/663587/airport_aviation_flight_landing_runway_taxiing_icon">
+  <style>
+    .adnu192ed {
+      color:black;
+    margin-left:130px;
+
+    }
+    .DB18{
+      ;
+      color:White
+      
+    }
+    #fdw1d {
+      background-color:blue
+      
+    }
+    #d1dw {
+      background-image:url("https://media.giphy.com/media/l4KihuqeuJEi9qLSM/giphy.gif");
+      background-repeat:no-repeat;
+      background-size: 1000px 1000px;
+      width:1000px;
+    }
+  </stlye>
+  </head>
+<body>
+    
+    <table id="fdw1d">
+ <td><div class="adnu192ed"><h1>W G</h1></div> </td>
+<td><div class="adnu192ed"><h1>E E</h1></div></td>
+<td><div class="adnu192ed"><h1>I N</h1></div></td>
+<td><div class="adnu192ed"><h1>R E</h1></div></td>
+<td><div class="adnu192ed"><h1>D R</h1></div></td>
+<td><div class="DB18"><h1>A</h1></div></td>
+<td><div class="DB18"><h1>T</h1></div></td>
+<td><div class="DB18"><h1>O</h1></div></td>
+<td><div class="DB18"><h1>R</h1></div></td>
+    
+    </table>
+    <div id="d1dw">
+    <hr />
+    <h3> This application is used just for fun to see what names could be generated for other objects in to come up with a random name for. Many this would be apart od this, such as legs, arms, unicors... YOU NAME IT!!! Greens, beans, potatoes, tomatoes, lamb, ham, dog, hogs, chicken, turkey, rats.</h3>
+    <br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br />
+    <hr />
+    </div>
+    </body>
+</html>
