@@ -1,0 +1,39 @@
+
+<!DOCTYPE html>
+<html>
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width">
+  <title>HippyTunes</title>
+</head>
+  <h1>HippyTunes </h1>
+  <style> 
+    h1 {background-color: darkblue ; color: white; text-align: center; font-size: 72px; font-family: impact}
+    h2 {color: red; text-align:center; font-family: cursive; }
+    h3 {color: red; }
+    background {color:white;}
+    p {color: white;}
+    h4 {color: Red; }
+    ul {color:white;}
+  </style> 
+<body style="background-color:darkblue;">
+  <h2>Welcome To My App!</h2> 
+  <h3>About</h3>
+  <p><br> My app will be for new incoming artist/rappers that wants to heard!</br>
+  These rappers can upload their music and have people follow them on my app, they can also have their followers pay for exclusive music and music that hasn’t been released yet. 
+  <br> I can guarantee you can be signed if you work hard, and have many followers.</br>
+    They can upload their music videos! 
+  </p> 
+  <h4>Features </h4>
+ <ul> 
+   <li>Genres</li>
+   <li>Menu Bar</li>
+   <li>Names of Local & Well-known Artist</li>
+   <li>Background of those artist</li>
+   <li>Create Your Profile</li>
+   <li>Download Your Music For Offline</li>
+   
+  <img src="http://microphonegeeks.com/wp-content/uploads/2015/02/fire-microphones-2560x1600-wallpaper-1719875-563x353.jpg"   
+   
+</body>
+</html>
